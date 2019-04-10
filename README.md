@@ -17,4 +17,4 @@ ruochenfan@qq.com
 \[4\] Yong Li, Fan Wang, Stevenson Robert, **Ruochen Fan**, Huachun Tan, Reliable Line Segment Matching for Multispectral Images
 Guided by Intersection Matches, IEEE TCSVT
 
-\[5\] Yizhi Song, **Ruochen Fan**, Sharon Huang, Zhe Zhu, Ruofeng Tong, Shi-Min Hu, A Three-Stage Real-time Detector for Traffic Signs in Large Panoramas, submitted to Computational Visual Media
+\[5\] Yizhi Song, **Ruochen Fan**, Sharon Huang, Zhe Zhu, Ruofeng Tong, Shi-Min Hu, A Three-Stage Real-time Detector for Traffic Signs in Large Panoramas, Computational Visual Media (2019)
