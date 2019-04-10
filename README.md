@@ -2,11 +2,11 @@
 
 I am a master student at Computer Science department, Tsinghua University under the supervision of Prof. Shi-Min Hu. I currently focus on perception system for autonomous driving, especially for point cloud segmentation and RGB detection. Before that, I did some research on saliency detection and weakly-supervised segmentation.
 
-### Contact
+## Contact
 
 ruochenfan@qq.com
 
-### Publications
+## Publications
 
 \[1\] **Ruochen Fan**, et al. S4Net: Single Stage Salient-Instance Segmentation, Conference on Computer Vision and Pattern Recognition (CVPR) 2019
 
