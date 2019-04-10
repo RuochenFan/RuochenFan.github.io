@@ -1,37 +1,20 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/RuochenFan/RuochenFan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a master student at Computer Science department, Tsinghua University under the supervision of Prof. Shi-Min Hu. I currently focus on perception system for autonomous driving, especially for point cloud segmentation and RGB detection. Before that, I did some research on saliency detection and weakly-supervised segmentaiton.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+ruochenfan@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+\[1\] **Ruochen Fan**, et al. S4Net: Single Stage Salient-Instance Segmentation, Conference on Computer Vision and Pattern Recognition (CVPR) 2019
 
-# Header 1
-## Header 2
-### Header 3
+\[2\] **Ruochen Fan**, et al. Associating Inter-Image Salient Instances for Weakly Supervised Semantic Segmentation, European Conference on Computer Vision (ECCV) 2018
 
-- Bulleted
-- List
+\[3\] **Ruochen Fan**, et al. Robust tracking-by-detection using a selection and completion mechanism. Computational Visual Media 3.3 (2017): 285-294.
 
-1. Numbered
-2. List
+\[4\] Yong Li, Fan Wang, Stevenson Robert, **Ruochen Fan**, Huachun Tan, Reliable Line Segment Matching for Multispectral Images
+Guided by Intersection Matches, IEEE TCSVT
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RuochenFan/RuochenFan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+\[5\] Yizhi Song, **Ruochen Fan**, Sharon Huang, Zhe Zhu, Ruofeng Tong, Shi-Min Hu, A Three-Stage Real-time Detector for Traffic Signs in Large Panoramas, submitted to Computational Visual Media
